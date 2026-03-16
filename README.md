@@ -12,7 +12,7 @@ Each assignment has:
 3. **Logistic Regression Classification**
 4. **K-Nearest Neighbors (KNN)**
 5. **Decision Tree vs Random Forest**
-6. **K-Means Clustering**
+6. **K-Means and DBSCAN Clustering**
 7. **Hierarchical Clustering**
 8. **PCA for Dimensionality Reduction**
 9. **Association Rule Mining (Apriori)**
